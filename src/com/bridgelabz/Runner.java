@@ -9,5 +9,7 @@ public class Runner {
         integerLinkedList.print();
         integerLinkedList.addAt(2,70);
         integerLinkedList.print();
+        integerLinkedList.deleteAtStart();
+        integerLinkedList.print();
     }
 }
